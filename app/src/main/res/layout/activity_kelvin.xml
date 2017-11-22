@@ -24,16 +24,16 @@
             android:hint="Input Nilai"
             android:textColor="#ff0055"
             android:inputType="number"
-            android:id="@+id/nilair"/>
+            android:id="@+id/nilaik"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:src="@drawable/ic_face_black_24dp"
-            android:id="@+id/logor"/>
+            android:id="@+id/logok"/>
     </LinearLayout>
 
     <Button
-        android:id="@+id/btnConvert2"
+        android:id="@+id/btnConvert4"
         android:layout_width="202dp"
         android:layout_height="wrap_content"
         android:text="Convert >>"
